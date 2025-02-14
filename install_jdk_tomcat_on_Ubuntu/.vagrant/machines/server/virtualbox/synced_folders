@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/tomcat/webapps":{"guestpath":"/opt/tomcat/webapps","hostpath":"C:/vagrant/install_jdk_tomcat_on_Ubuntu/tomcatwebapps","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/vagrant/install_jdk_tomcat_on_Ubuntu","disabled":false,"__vagrantfile":true}}}
